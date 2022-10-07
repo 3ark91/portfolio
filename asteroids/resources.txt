@@ -1,0 +1,35 @@
+All sources for resources used in game are listed below.
+
+ * BlasterlaserFont: By Iconian Fonts - Daniel Zadorozny. 
+ * Sourced from: https://www.fontsc.com/font/4114-blaster . License: Freeware - 
+ * Personal or Non-Commercial Use
+ *  
+ * shot.wav: By djfroyd sourced from https://freesound.org/people/djfroyd/
+ * sounds/348163/ under license https://creativecommons.org/licences/by/3.0/
+ *  
+ * explosion.wav: By juskiddink sourced from https://freesound.org/people/
+ * juskiddink/sounds/108640/ under licence https://creativecommons.org/licenses/
+ * by/3.0/
+ *  
+ * lose.wav: By cabled_mess sources from https://freesound.org/people/
+ * cabled_mess/sounds/350985/ under licence https://creativecommons.org/
+ * licenses/by/3.0/
+ *  
+ * shot2.wav: By Robinhood76 sources from https://freesound.org/people/
+ * Robinhood76/sounds/107613/ under licence https://creativecommons.org/
+ * licenses/by-nc/3.0/
+ *  
+ * alien.wav: By satchdev sources from https://freesound.org/people/satchdev/
+ * sounds/428631/ under licence https://creativecommons.org/licenses/by-nc/3.0/
+ *  
+ * spaceship.png: By rawpixel.com sources from https://www.freepik.com/
+ * free-vector/red-color-space-rocket-isolated-graphic-illustration_2631297.htm 
+ * under licence https://www.freepik.com/standard-license-freepik
+ *  
+ * alien.png: By macrovector sources from https://www.freepik.com/free-vector/
+ * space-icons-flat_3924919.htm under licence https://www.freepik.com/
+ * standard-license-freepik
+ *  
+ * Asteroid0.png, Asteroid1.png, Asteroid2.png, Asteroid3.png: 
+ * Source https://www.openprocessing.org/sketch/106239/ 
+ * from a sketch by Mark Gillespie.
