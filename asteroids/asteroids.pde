@@ -1,5 +1,5 @@
 /**************************************************************
- * File: a3.pde
+ * File: asteroids.pde
  * Group: Chris Hollman, Mark Hay, Steve Lee
  * Date: Final Version: 24/05/2019
  * Course: COSC101 - Software Development Studio 1
