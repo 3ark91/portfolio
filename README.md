@@ -7,18 +7,30 @@ github: [3ark91](https://github.com/3ark91)\
 linkedin: www.linkedin.com/in/3ark91
 
 ## Experience
-### Progrmaming languages
+### Programming languages
 Java\
 Python\
-Bash\
+Bash Scripting\
 SQL\
-Markdown
+Markdown\
+UML\
+C/C++\
+Assembly\
+Scala\
+
+
+
 
 ### Frameworks and Environments
 Processing\
 Unix\
 Bash\
-MYSQL/PostgreSQL
+MYSQL/PostgreSQL\
+Makefile\
+SBT (scala build tool)\
+Gradle\
+Git\
+
 
 ### Concepts
 Version Control - GitHub\
@@ -26,6 +38,7 @@ Build Tools\
 Database Management\
 Diagram generation\
 Documentation
+Complexity analysis
 
 
 ### Softskills
@@ -86,7 +99,60 @@ Communication
       5. explain the concepts of transaction management, query processing, physical storage and database indexing; and
       6. explain the societal issues around information privacy, as they relate to the storage and dissemination of data, and apply views and permissions to implement security constraints.
    </details>
+ 
+* Software Development Studio 2 (COSC220)
+   * Learn software development methodologies, version contol, testing, continuous deployment, build systems in a group project setting 
+   * Learn programming patterns, UML Diagrams
+   * Language(s) - Java
+   <details>
+      <summary>Learning Outcomes</summary>
+  
+      1. work with other programmers and other teams of programmers on large software projects;
+      2. apply collaborative software development practices and tool chains;
+      3. design and develop features for a software system, from conception through to testing, deployment, and continuous improvement;
+      4. design, model, and investigate user interaction and user experience with software;
+      5. apply techniques for verifying the quality of software during development and explain the ethical considerations around software failure risks and    their impact; and
+      6. investigate, analyse, understand, and modify the design of program code, including code written by others
+   </details>
    
+* Data Structures and Algorithms (COSC230)
+   * Learn principles of data structue implementations, efficient algorithm design, and complexity analysis.
+   * Language(s) - C++
+   <details>
+      <summary>Learning Outcomes</summary>
+  
+    1. write, compile, and run programs in C++;
+    2. perform complexity analysis in order to determine the efficiency of a given algorithm;
+    3. implement key details of each of the data structures presented in this unit; and
+    4. determine which data structure should be used for the efficient solution of a range of different problems, and understand why this is the case in each instance.
+   </details>
+   
+* Operating Systems (COSC240)
+   * Learn computer architecture, operating system principles: processes, memory management, file systems and scheduling.
+   * Language(s) - C, Assembly
+   <details>
+      <summary>Learning Outcomes</summary>
+  
+    1. articulate knowledge of the fundamental principles of computer architecture using appropriate terminology;
+    2. describe the historical development of operating systems and its impact on availability of technology;
+    3. broadly explain theoretical and technical concepts relating to operating systems, including processes, virtual memory, files, security and distributed computing;
+    4. analyse and evaluate a range of algorithms for process scheduling, concurrency, memory management and file storage; and
+    5. plan and implement solutions to sometimes complex programming problems involving C programs and UNIX system calls.
+   </details>
+   
+* Programming Paradigms (COSC250)
+   * Learn functional programming.
+   * Learn advanced programming concepts such as asynchronicity, type systems, streaming and reactive programming. 
+   * Language(s) - Scala
+   <details>
+      <summary>Learning Outcomes</summary>
+  
+    1. analyse how programming languages relate to models of reasoning about a computer program;
+    2. write programs in a modern functional programming language;
+    3. build systems that use abstractions for asynchronous programming and reactive streams;
+    4. understand and apply advanced language features and type systems in the design of programs; and
+    5. understand the use of functional programming in practice.
+   </details>
 #### Maths
 
 #### Other
