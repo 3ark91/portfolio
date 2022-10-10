@@ -44,7 +44,9 @@ Database Management\
 Diagram generation\
 Documentation
 Complexity analysis
-Networking - HTTP,  
+Networking - HTTP, 
+Human Computer Interaction
+Interface Design
 
 
 ### Softskills
@@ -226,6 +228,33 @@ Communication
       2. analyse problem specifications and derive appropriate solutions for them;
       3. map solutions to selected artificial intelligence algorithms; and
       4. design and implement solutions in a high-level programming language.
+      
+* **Advanced Web Development** (COSC360)
+   * Develop web applications using advanced technologies and frameworks, including, NodeJS, React. 
+   * Language(s) - HTML, CSS, Javascript
+   * Frameworks - Docker, React, NodeJS
+   <details>
+      <summary>Learning Outcomes</summary>
+  
+      1. work with advanced features of HTTP and Web protocols, including full duplex and browser-to-browser communication;
+      2. design, develop and deploy scalable web systems that present well-designed APIs;
+      3. use modern front end frameworks and browser features to develop complex web user interfaces;
+      4. use web engineering tools and techniques to target the browser in a testable, maintainable manner; and
+      5. develop systems that use non-relational databases and cloud computing services.
+      
+* **User Experience and Interaction Design** (COSC370)
+   * Design Interactions and User Experiences for technology and applicaitons
+   * Language(s) - 
+   * Frameworks - 
+   <details>
+      <summary>Learning Outcomes</summary>
+  
+      1. apply design methods and thinking techniques to generate unique designs for interactive programs;
+      2. apply theories of human computer interaction to analyse and inform program designs;
+      3. write interactive programs that use a variety of input techniques, including for mobile devices;
+      4. empirically investigate how users interact with programs; and
+      5. apply common programming design patterns, structures, and development practices for interactive programs.
+      
 #### Maths
 
 #### Other
