@@ -256,7 +256,42 @@ Communication
       5. apply common programming design patterns, structures, and development practices for interactive programs.
       
 #### Maths
-
+* **Discrete Mathematics** (AMTH140)
+   * Learn mathematical foundation of - logic and proof, induction, recursion, graph theory, algorithm deign and efficiency analysis
+   <details>
+      <summary>Learning Outcomes</summary>
+  
+      1. determine the validity of logical arguments, and prove simple mathematical statements using the rules of symbolic logic and predicate calculus;
+      2. apply induction and recursion to relevant problems;
+      3. demonstrate a theoretical and technical understanding of graphs, and apply this knowledge to solve problems involving minimum spanning trees;
+      4. demonstrate a theoretical and technical understanding of relations, and apply this knowledge to solve problems in cryptography, and topological sorting;
+      5. determine the asymptotic efficiency of a given algorithm; and
+      6. explain the history and status of discrete mathematics as it relates to computer science and digital technologies.
+      
+* **Introduction to Programming in the Sciences** (AMTH250)
+   * Study algorithms for common mathmatical tasks including: linear equations, interpolation, extrapolation, root finding, curve fitting, numerical intergration.
+   <details>
+      <summary>Learning Outcomes</summary>
+  
+      1. develop logical and well structured computer programs in a high-level programming language;
+      2. solve scientific and engineering problems by designing and implementing algorithms in a high-level programming language;
+      3. analyse and debug computer programs to describe their purpose and identify logic and syntactical errors whenever they are present;
+      4. apply the tools and commands available in UNIX-type operating systems for tasks relating to basic administration and data processing;
+      5. demonstrate the ability to apply the concepts taught to a range of topics in computational mathematics; and
+      6. demonstrate a knowledge of the basic principles of computational error and limits of accuracy.
+      
+* **Quantitative Skills with Applications** (MTHS110)
+   * Develop understand and apply mathematical models. 
+   <details>
+      <summary>Learning Outcomes</summary>
+  
+      1. graph and apply exponential and logarithmic functions;
+      2. solve exponential and logarithmic equations;
+      3. graph and apply trigonometric functions and solve trigonometric equations;
+      4. solve systems of linear equations using matrices;
+      5. solve first-order recurrence relations, and
+      6. apply arithmetic and geometric sequences and series
+      
 #### Other
 
 
