@@ -21,7 +21,7 @@ HTML\
 CSS\
 ES5/ES6 (Javascript)\
 JQuery\
-PHP
+PHP\
 
 
 
@@ -72,6 +72,8 @@ Websockets, EventSource
 Vue.js
 React.js
 OAuth
+R
+LaTeX
 
 
 
