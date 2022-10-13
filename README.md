@@ -19,7 +19,7 @@ Assembly\
 Scala\
 HTML\
 CSS\
-Javascript\
+ES5/ES6 (Javascript)\
 JQuery\
 PHP
 
@@ -52,6 +52,28 @@ Interface Design
 ### Softskills
 Teamwork\
 Communication
+
+### Unsorted
+Bootstrap\
+SASS (css preprocessor)
+Node/NPM
+Fetch API
+Webpack
+Synchronous/Asynchronous
+Futures/Promises
+7 layer OSI model
+DNS
+HTTP
+JSON
+CORS - cross origin resource sharing 
+Express framework
+MongoDB
+Websockets, EventSource
+Vue.js
+React.js
+OAuth
+
+
 
 
 ## University of New England, Bachelor of Computer Science (2019 - 2022)
@@ -231,7 +253,7 @@ Communication
       
 * **Advanced Web Development** (COSC360)
    * Develop web applications using advanced technologies and frameworks, including, NodeJS, React. 
-   * Language(s) - HTML, CSS, Javascript
+   * Language(s) - HTML, CSS, ES5/ES6 (Javascript)
    * Frameworks - Docker, React, NodeJS
    <details>
       <summary>Learning Outcomes</summary>
