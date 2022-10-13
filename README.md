@@ -323,7 +323,7 @@ Communication
       3. apply knowledge of discrete and continuous random variables to solve applied probability problems; and
       4. use fundamental algebra and calculus skills to calculate key properties of statistical distributions and their expected values.
 
-     #### Other
+#### Other
 * **Communication for Business** (MM105)
    * Learn principles of communication in a business environment 
    <details>
