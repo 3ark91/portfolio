@@ -34,7 +34,7 @@ MYSQL/PostgreSQL\
 Makefile\
 SBT (scala build tool)\
 Gradle\
-Git\
+Git
 
 
 ### Concepts
@@ -291,9 +291,65 @@ Communication
       4. solve systems of linear equations using matrices;
       5. solve first-order recurrence relations, and
       6. apply arithmetic and geometric sequences and series
-      
-#### Other
 
+* **Calculus and Linear Algebra 1** (MTHS120)
+   * Learn basic level calculus and linear equations  
+   <details>
+      <summary>Learning Outcomes</summary>
+  
+      1. apply the concept of limit to a range of infinite sequences, and relate this to the concept of continuity in the context of specific functions;
+      2. relate the concept of derivative to variable rates of change in natural processes, identify and apply appropriate techniques of differentiation to a range of functions, locate and classify maxima and minima of functions, and apply all of these to one-variable problems of optimisation;
+      3. relate the concept of definite integral to area, volume and the general accumulation of a quantity prescribed initially in terms of density, compute integrals of functions via elementary anti-differentiation and elementary changes of variable; and
+      4. solve systems of linear equations, and classify the solution sets as being either uniquely determined, underdetermined, or overdetermined    
 
+* **Calculus and Linear Algebra 2** (MTHS130)
+   * Learn advanced level calculus and linear equations  
+   <details>
+      <summary>Learning Outcomes</summary>
+  
+      1. identify and apply appropriate techniques of integration, such as integration by parts, substitution, and partial fractions, to a range of functions of one variable;
+      2. identify and apply appropriate tests for convergence of a range of infinite series, and relate this concept to the power series expansion and approximation of smooth functions;
+      3. relate the concept of implicit parametrisation to the loci of a range of plane curves as represented in either cartesian or polar coordinates, and apply this with integration to compute arc-length;
+      4. identify and apply appropriate techniques to solve elementary differential equations of first or second order, placed in the context of specific mathematical models from physical and biological science; and
+      5. compute determinants, eigenvalues and eigenvectors of matrices in terms of real, or more generally, complex numbers where necessary, and appreciate their significance in mathematical modelling.  
+  
+* **Probability and Simulation** (MATH260)
+   * Understand probabillity distributions and how to apply its concepts to solve practical problems.   
+   <details>
+      <summary>Learning Outcomes</summary>
+  
+      1. infer outcomes using a broad theoretical and technical knowledge of probability theory and random events;
+      2. analyse information and data sets to perform activities such as intractable integral calculations;
+      3. apply knowledge of discrete and continuous random variables to solve applied probability problems; and
+      4. use fundamental algebra and calculus skills to calculate key properties of statistical distributions and their expected values.
+
+     #### Other
+* **Communication for Business** (MM105)
+   * Learn principles of communication in a business environment 
+   <details>
+      <summary>Learning Outcomes</summary>
+  
+      1. recognise the role of communication and creativity in business, and devise and communicate creative solutions to business-related problems;
+      2. employ reflection, self-awareness and emotional intelligence to develop a professional identity;
+      3. manage individual and collaborative work processes; and
+      4. recognise, analyse, and respond appropriately to a range of ethical, cultural and social issues.
+     
+* **Japanese Language 1A** (JAPN101)
+   * Establish elementary communicative competence in Japanese
+   <details>
+      <summary>Learning Outcomes</summary>
+  
+      1. participate in simple conversations using basic aural and oral skills in Japanese (including introducing oneself, talking about one's daily activities, fundamental forms of verbs, adjectives and particles);
+      2. demonstrate basic skills in reading and writing in Japanese (using all hiragana and katakana, and elementary-level kanji) on topics relating to self, family, friends and daily life; and
+      3. recognise aspects of Japanese society and culture relevant to inter-cultural communication at an elementary level.
+
+* **Japanese Language 1B** (JAPN102)
+   * Further Develop communicative competence in Japanese
+   <details>
+      <summary>Learning Outcomes</summary>
+  
+      1. participate in simple conversations using basic aural and oral skills in Japanese (including expressing probability, moderating language, potential form of verbs, suffixes like -tai, -sugiru-, -to omou and -deshoo);
+      2. demonstrate basic skills in reading and writing in Japanese (consolidating hiragana, katakana and elementary-level kanji) on topics relating to self, family, friends and daily life; and
+      3. recognise and apply aspects of Japanese society and culture relevant to inter-cultural communication at an elementary level.
 
 
